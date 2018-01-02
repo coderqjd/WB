@@ -1,0 +1,6 @@
+framework module Pods_QJDWB {
+  umbrella header "Pods-QJDWB-umbrella.h"
+
+  export *
+  module * { export * }
+}
